@@ -1,0 +1,42 @@
+2023-05-21 10:59:38,761 INFO [selenium_manager.py(run:115)] - Executing: C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-05-21 10:59:46,376 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="84c975578df9f08034ee6c0fb29d2266")>
+2023-05-21 10:59:46,379 INFO [page_mp_login.py(page_mp_login:29)] - 正在调用自媒体业务方法，登录的用户名是:13812345678
+2023-05-21 10:59:46,380 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', '.s_ipt')
+2023-05-21 10:59:46,596 INFO [base.py(base_input:20)] - 正在对('css selector', '.s_ipt')元素进行清空操作
+2023-05-21 10:59:46,597 INFO [base.py(base_input:22)] - 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+2023-05-21 10:59:47,905 INFO [base.py(base_click:26)] - 正在对('css selector', "[id='su']")元素进行点击操作
+2023-05-21 10:59:47,906 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', "[id='su']")
+2023-05-21 10:59:48,227 ERROR [Test03_mp_login.py(test_mp_login:36)] - 断言出错，错误信息：assert '百度一下' == '百度一下1'
+  - 百度一下1
+  ?     -
+  + 百度一下
+2023-05-21 10:59:48,227 ERROR [base.py(base_get_image:34)] - 断言出错，正在执行截图操作！
+2023-05-21 10:59:48,365 ERROR [base.py(base_get_image:37)] - 断言出错，正在将错误图片写入allure报告   ！
+2023-05-21 11:04:28,178 INFO [selenium_manager.py(run:115)] - Executing: C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-05-21 11:04:34,355 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="5f5689870f13e07f976a98920d45f809")>
+2023-05-21 11:04:34,357 INFO [page_mp_login.py(page_mp_login:29)] - 正在调用自媒体业务方法，登录的用户名是:13812345678
+2023-05-21 11:04:34,358 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', '.s_ipt')
+2023-05-21 11:04:34,622 INFO [base.py(base_input:20)] - 正在对('css selector', '.s_ipt')元素进行清空操作
+2023-05-21 11:04:34,622 INFO [base.py(base_input:22)] - 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+2023-05-21 11:04:35,885 INFO [base.py(base_click:26)] - 正在对('css selector', "[id='su']")元素进行点击操作
+2023-05-21 11:04:35,886 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', "[id='su']")
+2023-05-21 11:04:35,910 ERROR [Test03_mp_login.py(test_mp_login:36)] - 断言出错，错误信息：assert '百度一下' == '百度一下1'
+  - 百度一下1
+  ?     -
+  + 百度一下
+2023-05-21 11:04:35,910 ERROR [base.py(base_get_image:34)] - 断言出错，正在执行截图操作！
+2023-05-21 11:04:36,273 ERROR [base.py(base_get_image:37)] - 断言出错，正在将错误图片写入allure报告   ！
+2023-05-21 11:05:36,938 INFO [selenium_manager.py(run:115)] - Executing: C:\Users\Admin\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-05-21 11:05:42,655 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="4854185fa638dbe8413b99876f283eb6")>
+2023-05-21 11:05:42,657 INFO [page_mp_login.py(page_mp_login:29)] - 正在调用自媒体业务方法，登录的用户名是:13812345678
+2023-05-21 11:05:42,657 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', '.s_ipt')
+2023-05-21 11:05:42,904 INFO [base.py(base_input:20)] - 正在对('css selector', '.s_ipt')元素进行清空操作
+2023-05-21 11:05:42,905 INFO [base.py(base_input:22)] - 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+2023-05-21 11:05:44,179 INFO [base.py(base_click:26)] - 正在对('css selector', "[id='su']")元素进行点击操作
+2023-05-21 11:05:44,180 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', "[id='su']")
+2023-05-21 11:05:44,230 ERROR [Test03_mp_login.py(test_mp_login:36)] - 断言出错，错误信息：assert '百度一下' == '百度一下1'
+  - 百度一下1
+  ?     -
+  + 百度一下
+2023-05-21 11:05:44,230 ERROR [base.py(base_get_image:34)] - 断言出错，正在执行截图操作！
+2023-05-21 11:05:44,374 ERROR [base.py(base_get_image:37)] - 断言出错，正在将错误图片写入allure报告   ！

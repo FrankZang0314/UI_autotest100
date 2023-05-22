@@ -1,0 +1,11 @@
+INFO     selenium.webdriver.common.selenium_manager:selenium_manager.py:73 Applicable driver not found; attempting to install with Selenium Manager (Beta)
+INFO     root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="2f738b9aa0bb7060acdc30974f9298ae")>
+INFO     root:page_mp_login.py:29 正在调用自媒体业务方法，登录的用户名是:13812345678
+INFO     root:base.py:13 正在查找元素：('css selector', '.s_ipt')
+INFO     root:base.py:20 正在对('css selector', '.s_ipt')元素进行清空操作
+INFO     root:base.py:22 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+INFO     root:base.py:26 正在对('css selector', "[id='su']")元素进行点击操作
+INFO     root:base.py:13 正在查找元素：('css selector', "[id='su']")
+ERROR    root:Test03_mp_login.py:36 断言出错，错误信息：assert '百度一下' == '百度一下1'
+ERROR    root:base.py:34 断言出错，正在执行截图操作！
+ERROR    root:base.py:37 断言出错，正在将错误图片写入allure报告   ！

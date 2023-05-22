@@ -1,0 +1,35 @@
+2023-05-20 09:30:39,909 INFO [get_log.py(<module>:40)] - 测试信息级别日志
+2023-05-20 09:30:39,909 ERROR [get_log.py(<module>:41)] - 测试错误级别
+2023-05-20 09:56:52,652 INFO [selenium_manager.py(driver_location:73)] - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-20 09:57:00,006 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="c0c5f4a476fa7209350d9299cbeea283")>
+2023-05-20 09:57:00,007 INFO [page_mp_login.py(page_mp_login:29)] - 正在调用自媒体业务方法，登录的用户名是:13812345678
+2023-05-20 09:57:00,008 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', '.s_ipt')
+2023-05-20 09:57:00,090 INFO [base.py(base_input:20)] - 正在对('css selector', '.s_ipt')元素进行清空操作
+2023-05-20 09:57:00,090 INFO [base.py(base_input:22)] - 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+2023-05-20 09:57:01,517 INFO [base.py(base_click:26)] - 正在对('css selector', "[id='su']")元素进行点击操作
+2023-05-20 09:57:01,517 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', "[id='su']")
+2023-05-20 09:57:01,529 ERROR [Test03_mp_login.py(test_mp_login:36)] - 断言出错，错误信息：assert '百度一下' == '百度一下1'
+2023-05-20 09:57:01,530 ERROR [base.py(base_get_image:34)] - 断言出错，正在执行截图操作！
+2023-05-20 09:57:01,643 ERROR [base.py(base_get_image:37)] - 断言出错，正在将错误图片写入allure报告   ！
+2023-05-20 10:38:17,787 INFO [selenium_manager.py(driver_location:73)] - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-20 10:38:24,466 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="1cf6b8c16930dccdcaef024a8cd17400")>
+2023-05-20 10:38:24,469 INFO [page_mp_login.py(page_mp_login:29)] - 正在调用自媒体业务方法，登录的用户名是:13812345678
+2023-05-20 10:38:24,469 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', '.s_ipt')
+2023-05-20 10:38:24,773 INFO [base.py(base_input:20)] - 正在对('css selector', '.s_ipt')元素进行清空操作
+2023-05-20 10:38:24,773 INFO [base.py(base_input:22)] - 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+2023-05-20 10:38:26,084 INFO [base.py(base_click:26)] - 正在对('css selector', "[id='su']")元素进行点击操作
+2023-05-20 10:38:26,085 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', "[id='su']")
+2023-05-20 10:38:26,363 ERROR [Test03_mp_login.py(test_mp_login:36)] - 断言出错，错误信息：assert '百度一下' == '百度一下1'
+2023-05-20 10:38:26,363 ERROR [base.py(base_get_image:34)] - 断言出错，正在执行截图操作！
+2023-05-20 10:38:26,486 ERROR [base.py(base_get_image:37)] - 断言出错，正在将错误图片写入allure报告   ！
+2023-05-20 10:39:50,789 INFO [selenium_manager.py(driver_location:73)] - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-20 10:39:57,002 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="2f738b9aa0bb7060acdc30974f9298ae")>
+2023-05-20 10:39:57,004 INFO [page_mp_login.py(page_mp_login:29)] - 正在调用自媒体业务方法，登录的用户名是:13812345678
+2023-05-20 10:39:57,005 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', '.s_ipt')
+2023-05-20 10:39:57,285 INFO [base.py(base_input:20)] - 正在对('css selector', '.s_ipt')元素进行清空操作
+2023-05-20 10:39:57,285 INFO [base.py(base_input:22)] - 正在对('css selector', '.s_ipt')元素进行输入：13812345678操作
+2023-05-20 10:39:58,535 INFO [base.py(base_click:26)] - 正在对('css selector', "[id='su']")元素进行点击操作
+2023-05-20 10:39:58,535 INFO [base.py(base_find:13)] - 正在查找元素：('css selector', "[id='su']")
+2023-05-20 10:39:58,549 ERROR [Test03_mp_login.py(test_mp_login:36)] - 断言出错，错误信息：assert '百度一下' == '百度一下1'
+2023-05-20 10:39:58,549 ERROR [base.py(base_get_image:34)] - 断言出错，正在执行截图操作！
+2023-05-20 10:39:58,684 ERROR [base.py(base_get_image:37)] - 断言出错，正在将错误图片写入allure报告   ！
