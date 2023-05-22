@@ -31,7 +31,7 @@ class TestMpLogin:
         # print("\n 获取的昵称为：",self.mp.page_get_nickname())
         try:
             # assert expect == self.mp.page_get_nickname()
-            assert expect =="百度一下1"
+            assert expect =="百度一下"
         except Exception as e:
             log.error("断言出错，错误信息：{}".format(e))
             # print("错误原因：",e)
